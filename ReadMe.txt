@@ -1,0 +1,1 @@
+After running the program, you need to write circle1.jpg as the image name.
